@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>"Welcome to DevOps CI/CD Demo" </title>
+    <title>"Very Warm Welcome to DevOps CI/CD Demo" </title>
   </head>
   <body bgcolor=white>
 
@@ -10,7 +10,7 @@
           <img src="polaris.jpeg">
         </td>
         <td>
-          <h1>" Hi  Warm Welcome to DevOps CI/CD Demo"</h1>
+          <h1>" Very Warm Welcome to DevOps CI/CD Demo"</h1>
         </td>
       </tr>
     </table>
